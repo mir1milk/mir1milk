@@ -9,7 +9,7 @@
 ![html5](https://img.shields.io/badge/HTML5-a22846?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Adobexd](https://img.shields.io/badge/AdobeXD-000b1f?style=flat-square&logo=Adobe%20XD&logoColor=white)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)(https://www.instagram.com/_0iri/)]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_0iri/)
 
 
 

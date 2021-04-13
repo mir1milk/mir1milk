@@ -4,9 +4,7 @@
 
 <p align="center">This is now!</p>
 
-<div align=center>
  [![html5](https://img.shields.io/badge/HTML5-a22846?style=flat-square&logo=HTML5&logoColor=white)]
-	</div>
 
 <div align=center>
 	

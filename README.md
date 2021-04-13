@@ -5,5 +5,5 @@
 <p align="center">This is now!</p>
 
 <p align="center">
-![](https://shields.io/badge/AdobeXD-000b1f?style=flat-square&logo=Adobe%20XD&logoColor=white) ![](https://shields.io/badge/HTML5-a22846?style=flat-square&logo=HTML5&logoColor=white)
+![](https://img.shields.io/static/v1?label=label&message=yo&color=blue)
 </p>

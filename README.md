@@ -13,7 +13,7 @@
 
 
 
-<div align=center>
+
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgist.github.com%2Fmir1milk&count_bg=%23CC4AEB&title_bg=%23000000&icon=&icon_color=%23E13C9C&title=YEEEE&edge_flat=true)](https://github.com/mir1milk)
-  </div>
+

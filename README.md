@@ -1,4 +1,4 @@
-<h1 align="center">![header](https://capsule-render.vercel.app/api?text=LovingPerson&fontColor=d6ace6&animation=fadeIn)</h1>
+![header](https://capsule-render.vercel.app/api?text=LovingPerson&fontColor=d6ace6&animation=fadeIn)
 <h2 align="center">HELLO MY NAME MIRI! 😊</h2>
 
 
